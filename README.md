@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screencapture-four-card-feature-section-6mzn55y7d-cotybro-vercel-app-2021-07-10-01_56_31](https://user-images.githubusercontent.com/36529826/125154924-33da1500-e122-11eb-958e-e7db77be57d4.png)
 
 ### Links
 
